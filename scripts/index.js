@@ -1,4 +1,4 @@
-let totalScore = { computerScore: 0, playerScore: 0 };
+const totalScore = { computerScore: 0, playerScore: 0 };
 
 function getComputerChoice() {
   const rpsChoice = ["Rock", "Paper", "Scissors"];
